@@ -1,5 +1,4 @@
 # mathParser
-Projekt zaliczeniowy
 Ta aplikacja jest parserem matematycznyn w którym można
 wykożystywać standardowe operacje matematyczne oraz wykorzystywać funkcjie.
 Aplikacja posiada również historie wykonywanych działań, Po dwukrotnym kliknięciu w histori
